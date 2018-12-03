@@ -1,0 +1,54 @@
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/bin/Debug/Drawer.exe.config
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/bin/Debug/Drawer.exe
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/bin/Debug/Drawer.pdb
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/obj/Debug/Drawer.csprojAssemblyReference.cache
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/obj/Debug/Drawer.csproj.CoreCompileInputs.cache
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/obj/Debug/Drawer.exe
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/obj/Debug/Drawer.pdb
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/bin/Debug/drawings.txt
+C:/Users/Daniel/Documents/CSIS2410 Fall18/Drawer/Drawer/bin/Debug/drawings2.txt
+/media/ethan/Ein/Drawer2/Drawer/Drawer/bin/Debug/drawings.txt
+/media/ethan/Ein/Drawer2/Drawer/Drawer/bin/Debug/drawings2.txt
+/media/ethan/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.exe.config
+/media/ethan/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.exe
+/media/ethan/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.pdb
+/media/ethan/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.csprojAssemblyReference.cache
+/media/ethan/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.csproj.CoreCompileInputs.cache
+/media/ethan/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.exe
+/media/ethan/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.pdb
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.exe.config
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.exe
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.pdb
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.csprojAssemblyReference.cache
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.csproj.CoreCompileInputs.cache
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.exe
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.pdb
+F:/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.csprojAssemblyReference.cache
+F:/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.csproj.CoreCompileInputs.cache
+F:/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.exe
+F:/Ein/Drawer2/Drawer/Drawer/obj/Debug/Drawer.pdb
+F:/Ein/Drawer2/Drawer/Drawer/bin/Debug/drawings.txt
+F:/Ein/Drawer2/Drawer/Drawer/bin/Debug/drawings2.txt
+F:/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.exe.config
+F:/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.exe
+F:/Ein/Drawer2/Drawer/Drawer/bin/Debug/Drawer.pdb
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/bin/Debug/res/drawings.txt
+/media/ethan/Ein/Ein/Drawer2/Drawer/Drawer/bin/Debug/res/drawings2.txt
+G:\Ein\Drawer2\Drawer\Drawer\bin\Debug\res\drawings.txt
+G:\Ein\Drawer2\Drawer\Drawer\bin\Debug\res\drawings2.txt
+G:\Ein\Drawer2\Drawer\Drawer\bin\Debug\Drawer.exe.config
+G:\Ein\Drawer2\Drawer\Drawer\bin\Debug\Drawer.exe
+G:\Ein\Drawer2\Drawer\Drawer\bin\Debug\Drawer.pdb
+G:\Ein\Drawer2\Drawer\Drawer\obj\Debug\Drawer.csprojAssemblyReference.cache
+G:\Ein\Drawer2\Drawer\Drawer\obj\Debug\Drawer.csproj.CoreCompileInputs.cache
+G:\Ein\Drawer2\Drawer\Drawer\obj\Debug\Drawer.exe
+G:\Ein\Drawer2\Drawer\Drawer\obj\Debug\Drawer.pdb
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\bin\Debug\res\drawings.txt
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\bin\Debug\res\drawings2.txt
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\bin\Debug\Drawer.exe.config
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\bin\Debug\Drawer.exe
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\bin\Debug\Drawer.pdb
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\obj\Debug\Drawer.csprojAssemblyReference.cache
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\obj\Debug\Drawer.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\obj\Debug\Drawer.exe
+C:\Users\Ethan\Desktop\Drawer2\Drawer\Drawer\obj\Debug\Drawer.pdb
